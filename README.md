@@ -12,7 +12,9 @@ This project, with its back end API developed on Python, and it’s front end co
 To execute the given project: 
 Install the following dependencies: 
 
-```pip install YouTubeTranscriptApi flask transformers```
+```
+pip install YouTubeTranscriptApi flask transformers
+```
 
 # Conclusion: 
 This summarizer tool is extremely useful in information processing and synthesising in day-to-day life. It can return the summary of a video within a matter of a few seconds which minimizes user’s own information processing time, and the time saved can be used to analyse the information provided and learn from it. In conclusion the project succeeds in its aim of minimising time consumed to process information, all in all, increasing overall user productivity and efficiency.
